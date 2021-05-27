@@ -5,3 +5,4 @@
 > All these led to create me these repository.<br><br>
 > I will be updating this repository with resources which will help any beginner who wants to learn **ML**. <br><br>
 > Any resource available in these repository is either from internet or created be myself.<br><br>
+> This repository will get updates as I learn something new
